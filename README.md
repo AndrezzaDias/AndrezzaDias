@@ -1,6 +1,5 @@
 ### Olá! Eu sou Andreza 👩🏾👩🏾‍💻👋🏾!!
 
-Here are some ideas to get you started:
 - 🔭  Hoje  estou trabalhando como Software QA Intern
 - 🌱 Estou estutando Automação de Teste de Software
 
