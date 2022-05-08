@@ -1,7 +1,7 @@
 ### Olá! Eu sou Andreza 👩🏾👩🏾‍💻👋🏾!!
 
 Here are some ideas to get you started:
-- 🔭  Hoje  estou trabalando como Software QA Intern
+- 🔭  Hoje  estou trabalhando como Software QA Intern
 - 🌱 Estou estutando Automação de Teste de Software
 
 
@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 </div>
  </div>
 <div style="display: inline_block"><br>
+    <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
