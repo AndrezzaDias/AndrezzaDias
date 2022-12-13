@@ -1,6 +1,6 @@
 ### Olá! Eu sou Andreza 👩🏾👩🏾‍💻👋🏾!!
 
-- 🔭 Hoje estou trabalhando como Software QA Intern
+- 🔭 Hoje estou trabalhando como Analista de Testes Júnior
 - 🌱 Estudando Automação de Teste de Software 
 - 👩🏾‍💻 Selenium - Cypress - Appium 
 
