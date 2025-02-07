@@ -1,6 +1,6 @@
 ### Olá! Eu sou Andreza 👩🏾👩🏾‍💻👋🏾!!
 
-- 🔭 Hoje estou trabalhando como Analista de Testes Júnior
+- 🔭 Hoje estou trabalhando como Analista de Testes 
 - 🌱 Estudando Automação de Teste de Software 
 - 👩🏾‍💻 Selenium - Cypress - Appium 
 
