@@ -1,7 +1,7 @@
 ### Olá! Eu sou Andreza 👩🏾👩🏾‍💻👋🏾!!
 
 - 🔭 Hoje estou trabalhando como Quality Assurance Pleno 
-- 🌱 Estudando Automação de Teste de Software 
+- 🌱 Automação de Teste de Software 
 - 👩🏾‍💻 Selenium - Cypress - Appium - CI/CD
 
 
